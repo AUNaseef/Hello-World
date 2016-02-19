@@ -5,3 +5,5 @@ This is the description for file "Hello.cpp"
 The 'main()' will be executed first, On all C++ Programs and in most other languages.
 
 'std::cout << "Hello, GIT!"' To print an array of characters.(char*).
+
+using 'return' to return a value. here is int, so returning a integer. there is not return if it is void.
