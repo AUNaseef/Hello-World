@@ -5,6 +5,6 @@ class hello
         int a = 7;
         int b = 3;
         int total = a + b;
-        System.Console.WriteLine("Total is " + total);
+        System.Console.WriteLine("sum of a and b is " + total);
     }
 }
