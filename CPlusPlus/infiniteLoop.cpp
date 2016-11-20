@@ -3,13 +3,17 @@
 using namespace std;
 
 int main(){
-   int number;
-   int total;
+
+   // Variables
+   int number = 0;
+   int total = 0;
+
+   // For Loop
    for(;;){
-     cout << endl << "Total is" << total;
-     cout << "enter number :";
+     cout << endl << "Total is " << total;
+     cout << endl << "enter number : ";
+
      cin >> number;
      total += number;
    }
- 
-} 
+}
