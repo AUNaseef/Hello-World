@@ -5,7 +5,7 @@ using namespace std;
 int main(){
    int number;
    int total;
-   for(,,){
+   for(;;){
      cout << endl << "Total is" << total;
      cout << "enter number :";
      cin >> number;
