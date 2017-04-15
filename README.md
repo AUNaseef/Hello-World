@@ -8,7 +8,7 @@ My first GIT repository to learn **Github**.
 
 *CPlusPlus/userInput01.cpp*
 
-# CSharp(C#)
+# C#
 *CSharp/Hello.cs*
 
 # Java
