@@ -13,3 +13,6 @@ My first GIT repository to learn **Github**.
 
 # Java
 *Java/Hello.java*
+
+# Python
+*Python/hello.py*
